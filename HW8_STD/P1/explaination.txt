@@ -1,0 +1,2 @@
+N/2 works because no number greater than N/2 can be multiplied by a
+number greater than 2 to be equal to a number <= N.

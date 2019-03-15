@@ -1,0 +1,7 @@
+1. The virtual method determines which function to use during runtime and
+should not be defined (i.e. have code which tells this virtual function what
+to do if it was called as itself). Then the children use their same name
+overridden function instead.
+
+2. The no virtual function method is similar but requires the parent functions
+to be defined.

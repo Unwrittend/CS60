@@ -1,0 +1,1 @@
+Why is there a pointer error when I compile this code with g++ -c and no error when I add all of it at the same time.
